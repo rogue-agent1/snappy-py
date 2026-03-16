@@ -1,0 +1,1 @@
+# snappy-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 snappy.py\n```\n
